@@ -1,2 +1,0 @@
-bt:
-	zig build test
